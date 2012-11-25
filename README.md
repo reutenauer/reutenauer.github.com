@@ -1,4 +1,4 @@
 My page
 =======
 
-My page on GitHub pages.
+My page on GitHub Pages.
